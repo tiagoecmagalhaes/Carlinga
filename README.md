@@ -1,2 +1,4 @@
 # Carlinga
-Pump Laser for Enora
+
+
+Laser diode control.
